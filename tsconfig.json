@@ -1,0 +1,12 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "removeComments": true,
+    "outDir": "js",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
